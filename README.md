@@ -26,7 +26,7 @@ AutoEDA is a full-stack web application that automates exploratory data analysis
 |-------------|-------------------------|
 | **Frontend**| React.js + Tailwind CSS |
 | **Backend** | FastAPI (Python)        |
-| **Database**| MongoDB (with Motor)    |
+| **Database**| MongoDB    |
 | **Charts**  | Matplotlib, Seaborn     |
 
 ---
